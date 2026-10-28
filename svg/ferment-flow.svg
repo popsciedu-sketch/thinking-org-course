@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 160">
+  <rect width="680" height="160" fill="#fff"/>
+  <rect x="20" y="45" width="110" height="70" rx="12" fill="#e8f1fc" stroke="#4a7fd4"/><text x="75" y="85" text-anchor="middle" fill="#2f5aa8" font-size="13" font-family="sans-serif">素材</text>
+  <text x="145" y="85" fill="#4a7fd4" font-size="22">→</text>
+  <rect x="170" y="35" width="140" height="90" rx="12" fill="#fff8e8" stroke="#e0a84a"/><text x="240" y="80" text-anchor="middle" fill="#8a5a10" font-size="13" font-family="sans-serif">擱置發酵</text>
+  <text x="325" y="85" fill="#4a7fd4" font-size="22">→</text>
+  <rect x="350" y="45" width="120" height="70" rx="12" fill="#eef8f3" stroke="#1a9f6a"/><text x="410" y="85" text-anchor="middle" fill="#1a7a4a" font-size="13" font-family="sans-serif">編輯</text>
+  <text x="485" y="85" fill="#4a7fd4" font-size="22">→</text>
+  <rect x="510" y="45" width="140" height="70" rx="12" fill="#4a7fd4"/><text x="580" y="85" text-anchor="middle" fill="#fff" font-size="13" font-family="sans-serif">輸出</text>
+</svg>
